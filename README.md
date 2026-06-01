@@ -16,3 +16,7 @@ If you want to modify or run the source code directly, you will need:
 
 * **Python 3.12**
 * **PyInstaller** (for compilation)
+
+<img width="846" height="805" alt="image" src="https://github.com/user-attachments/assets/387feaa6-422b-46df-a57f-ca41e91e7c3b" />
+
+<img width="837" height="808" alt="image" src="https://github.com/user-attachments/assets/e243b50b-ed8d-45f5-a801-3a388a4cb4f3" />
